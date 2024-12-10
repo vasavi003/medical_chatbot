@@ -9,3 +9,9 @@ langchain_community
 langchain_openai
 langchain_experimental
 -e .
+pinecone[grpc]==5.1.0 
+pinecone-datasets==0.7.0 
+langchain-pinecone==0.1.2 
+langchain-openai==0.1.23 
+langchain==0.2.15
+
